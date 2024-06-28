@@ -5,10 +5,13 @@ para la implementación de los ejemplos tratados en el informe, así como peque�
 fijados para su presentación. La ejecución de los cuadernillos puede afectar en pequeña medida a las cifras o histogramas. Invitamos sin embargo a
 familiarizarse con el código y probar con ejemplos propios.
 
-El archivo de texto requirements.txt posee las dependencias empleadas en los cuadernillos.
+
 
 ## Instalación del paquete
 
-El código del repositorio...
-
-```pip install requirements.txt```
+El código se ha ejecutado con la versión 3.11.9 de Python. El archivo de texto requirements.txt posee las dependencias empleadas en los cuadernillos.
+Recomendamos usar un entorno de programación local independiente con la versión de Python especificada, y en el que instalar las dependencias ejecutando
+la instrucción siguiente:
+```
+pip install requirements.txt
+```
