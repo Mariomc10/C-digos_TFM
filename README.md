@@ -11,4 +11,4 @@ El archivo de texto requirements.txt posee las dependencias empleadas en los cua
 
 El código del repositorio...
 
-`pip install requirements.txt`
+```pip install requirements.txt```
